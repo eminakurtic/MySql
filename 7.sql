@@ -1,0 +1,1 @@
+ USE sakila; INSERT INTO customer(store_id,first_name,last_name,email,address_id,create_date) VALUES(1,'Ime','Prezime','ime.prezime@gmail.com',601,'2020-04-04 11:51:38');
